@@ -1,0 +1,10 @@
+c:\users\sonja\documents\visual studio 2013\Projects\SearchLocation\SearchLocation\bin\SearchLocation.dll.config
+c:\users\sonja\documents\visual studio 2013\Projects\SearchLocation\SearchLocation\bin\SearchLocation.dll
+c:\users\sonja\documents\visual studio 2013\Projects\SearchLocation\SearchLocation\bin\SearchLocation.pdb
+c:\users\sonja\documents\visual studio 2013\Projects\SearchLocation\SearchLocation\bin\Nancy.dll
+c:\users\sonja\documents\visual studio 2013\Projects\SearchLocation\SearchLocation\bin\Nancy.Hosting.Aspnet.dll
+c:\users\sonja\documents\visual studio 2013\Projects\SearchLocation\SearchLocation\bin\Nancy.xml
+c:\users\sonja\documents\visual studio 2013\Projects\SearchLocation\SearchLocation\bin\Nancy.Hosting.Aspnet.xml
+c:\users\sonja\documents\visual studio 2013\Projects\SearchLocation\SearchLocation\obj\Debug\SearchLocation.csprojResolveAssemblyReference.cache
+c:\users\sonja\documents\visual studio 2013\Projects\SearchLocation\SearchLocation\obj\Debug\SearchLocation.dll
+c:\users\sonja\documents\visual studio 2013\Projects\SearchLocation\SearchLocation\obj\Debug\SearchLocation.pdb
